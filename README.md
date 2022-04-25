@@ -1,10 +1,10 @@
 # Distributed Machine Learning with Python
 
-<a href="https://www.packtpub.com/product/distributed-machine-learning-with-python/9781801815697?utm_source=github&utm_medium=repository&utm_campaign=9781801815697"><img src="https://static.packt-cdn.com/products/9781801076449/cover/smaller" alt="Distributed Machine Learning with Python" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/distributed-machine-learning-with-python/9781801815697?utm_source=github&utm_medium=repository&utm_campaign=9781801815697"><img src="https://static.packt-cdn.com/products/9781801815697/cover/smaller" alt="Distributed Machine Learning with Python" height="256px" align="right"></a>
 
 This is the code repository for [Distributed Machine Learning with Python](https://www.packtpub.com/product/distributed-machine-learning-with-python/9781801815697?utm_source=github&utm_medium=repository&utm_campaign=9781801815697), published by Packt.
 
-**	Accelerating model training and serving with distributed systems**
+**Accelerating model training and serving with distributed systems**
 
 ## What is this book about?
 Reducing time cost in machine learning leads to a shorter waiting time for model training and a faster model updating cycle. Distributed machine learning enables machine learning practitioners to shorten model training and inference time by orders of magnitude
@@ -50,9 +50,9 @@ You'll find this book useful if you are interested in using distributed systems 
 | 1-12	   | PyTorch                              | Windows, Mac OS X, and Linux (Any) |
 | 1-12	   | TensorFlow                           | Windows, Mac OS X, and Linux (Any) |
 | 1-12	   | Python                               | Windows, Mac OS X, and Linux (Any) |
-| 1-12     | CUDA/C                               | Windows, Mac OS X, and Linux (Any) |
-| 1-12     | NVprofiler/Nsight                    | Windows, Mac OS X, and Linux (Any) |
-| 1-12     | Linux                                | Windows, Mac OS X, and Linux (Any) |
+|          | CUDA/C                               |                                    |
+|          | NVprofiler/Nsight                    |                                    |
+
 
 We assume you have Linux/Ubuntu as your operating system. We assume you use
 NVIDIA GPUs and have installed the proper NVIDIA driver as well. We also assume you
