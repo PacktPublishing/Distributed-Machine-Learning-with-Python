@@ -67,7 +67,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * Machine Learning with the Elastic Stack - Second Edition [[Packt]](https://www.packtpub.com/product/machine-learning-with-the-elastic-stack-second-edition/9781801070034?utm_source=github&utm_medium=repository&utm_campaign=9781801070034) [[Amazon]](https://www.amazon.com/dp/1801070032)
 
-## Get to Know the Authors
+## Get to Know the Author
 **Guanhua Wang** 
 is a final-year computer science Ph.D. student in the RISELab at UC
 Berkeley, advised by Professor Ion Stoica. His research lies primarily in the machine
