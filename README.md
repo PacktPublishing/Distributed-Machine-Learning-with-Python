@@ -42,6 +42,8 @@ credential=credential)
 This book is for data scientists, machine learning engineers, and ML practitioners in both academia and industry. A fundamental understanding of machine learning concepts and working knowledge of Python programming is assumed. Prior experience implementing ML/DL models with TensorFlow or PyTorch will be beneficial. 
 You'll find this book useful if you are interested in using distributed systems to boost machine learning model training and serving speed.
 
+With the following software and hardware list you can run all code files present in the book (Chapter 1-12)
+
 ### Software and Hardware List
 
 
