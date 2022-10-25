@@ -80,3 +80,7 @@ CMU, Princeton) and big tech companies (Facebook/Meta, Microsoft). He received h
 master's degree from HKUST and a bachelor's degree from Southeast University in China.
 He has also done some cool research on wireless networks. He likes playing soccer and has
 run multiple half-marathons in the Bay Area of California.
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781801815697">https://packt.link/free-ebook/9781801815697 </a> </p>
